@@ -1,0 +1,10 @@
+.parent-div{
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+}
+
+.lod-body{
+    border: 1px solid black;
+    padding: 20px;
+}
